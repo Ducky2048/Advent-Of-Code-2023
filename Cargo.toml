@@ -1,0 +1,20 @@
+[package]
+name = "aoc2023"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "day_1_1"
+
+[[bin]]
+name = "day_1_2"
+
+[[bin]]
+name = "day_2_1"
+
+[[bin]]
+name = "day_2_2"
+
+
+[dependencies]
+tap = "1.0.1"
